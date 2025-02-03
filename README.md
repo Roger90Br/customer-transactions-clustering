@@ -55,8 +55,3 @@ Após a clusterização, foram gerados gráficos para facilitar a interpretaçã
 - **Gráfico de dispersão** para visualizar os clusters.
 - **Gráfico de Elbow** para determinar o número ideal de clusters.
 - **Perfil dos clusters**: Tabelas e gráficos para descrever as características de cada grupo de clientes.
-
-## Estrutura do Repositório
-
-O repositório está organizado da seguinte forma:
-
