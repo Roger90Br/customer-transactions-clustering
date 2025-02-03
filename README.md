@@ -1,4 +1,4 @@
-# 📊 Análise de Comportamento de Clientes - Clusterização de Transações
+# 📊 Customer Transactions Clustering
 
 Este projeto visa realizar uma análise aprofundada das transações de clientes de uma empresa utilizando técnicas de **clusterização** para identificar segmentos de comportamento, com base nas variáveis **Quantidade** e **Preço Unitário**. O objetivo é oferecer uma visão detalhada sobre os padrões de compra dos clientes e permitir uma segmentação eficaz para estratégias de marketing e vendas. 🚀
 
@@ -66,3 +66,4 @@ Após a execução da análise, espera-se que o projeto forneça insights sobre 
 2. Crie uma branch para a sua modificação:
    ```bash
    git checkout -b minha-modificacao
+
